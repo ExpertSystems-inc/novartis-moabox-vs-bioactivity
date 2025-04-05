@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+P45984	MAPK9	YNKICMROKLRBAY-UHFFFAOYSA-N	Clc1ccc(-c2n[nH]c3ccc(-c4nnn[nH]4)cc23)cc1
+P45984	MAPK9	XDJCLCLBSGGNKS-UHFFFAOYSA-N	c1cc(OCCN2CCCCC2)cc(-c2n[nH]c3ccc(-c4nnc[nH]4)cc23)c1

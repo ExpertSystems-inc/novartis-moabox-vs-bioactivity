@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+Q02224	CENPE	WHMXDBPHBVLYRC-OFVILXPXSA-N	CC(C)Oc1ccc(C(=O)N[C@H](CNC(=O)CN(C)C)Cc2ccc(-c3cn4cccc([C@H](C)O)c4n3)cc2)cc1Cl
+Q02224	CENPE	OWKKBXXJKHDSJN-OAQYLSRUSA-N	COc1cccc2nc(C(=O)N(CCN(C)C)[C@@H]3COc4c3ccc(Cl)c4Cl)c(-c3ccc(F)c(C)c3)n12

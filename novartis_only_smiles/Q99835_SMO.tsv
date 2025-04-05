@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+Q99835	SMO	HOWUQANRKNHXOD-UHFFFAOYSA-N	COc1ccc(-c2nnc(N3CCN(c4ncc(C(C)(C)O)c(C(F)(F)F)n4)CC3)c(C)c2C)cc1
+Q99835	SMO	GPWMBZKWWUXUPP-HDICACEKSA-N	Cc1c(C(=O)Nc2ccc(N3C[C@H](C)O[C@H](C)C3)nc2)cccc1-c1ccc(C#N)cc1
+Q99835	SMO	UBHJFPVTEATUFS-UHFFFAOYSA-N	COc1cc(OC)cc(C(=O)Nc2ccc(Cl)c(-c3nc4cc(N(C)C)ccc4[nH]3)c2)c1

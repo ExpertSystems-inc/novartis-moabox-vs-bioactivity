@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+Q9UQM7	CAMK2A	GDQXJQSQYMMKRA-UHFFFAOYSA-N	CC(C)(C)n1nc(Cc2cccc3ccccc23)c2c(N)ncnc21
+Q9UQM7	CAMK2A	MAEKBOFLYVOEBZ-UHFFFAOYSA-N	O=S(=O)(Nc1nc(NCCc2ccccc2)nc2c1CN(Cc1ccccc1)CC2)c1ccc2ccccc2c1
+Q9UQM7	CAMK2A	RJVLFQBBRSMWHX-DHUJRADRSA-N	CN([C@@H](Cc1ccc(OS(=O)(=O)c2cccc3cnccc23)cc1)C(=O)N1CCN(c2ccccc2)CC1)S(=O)(=O)c1cccc2cnccc12

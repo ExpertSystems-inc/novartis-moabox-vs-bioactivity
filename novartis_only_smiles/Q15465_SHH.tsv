@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+Q15465	SHH	UBHJFPVTEATUFS-UHFFFAOYSA-N	COc1cc(OC)cc(C(=O)Nc2ccc(Cl)c(-c3nc4cc(N(C)C)ccc4[nH]3)c2)c1
+Q15465	SHH	KSWYJUIFHPSZOL-UHFFFAOYSA-N	CC(C)(O)c1ccc(N2CCN(c3nnc(Cc4ccccc4)c4ccccc34)CC2)nc1
+Q15465	SHH	LXROHYSWUUGKNY-DEOSSOPVSA-N	Cc1csc(CN[C@H]2Cc3ccc(NC(=O)c4cccc(C)c4-c4ccc(C(F)(F)F)cc4)cc3C2)n1

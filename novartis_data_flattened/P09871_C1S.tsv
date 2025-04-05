@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+P09871	C1S	SEPJQQWQYNEMDL-UHFFFAOYSA-N	N=C(N)c1ccc2cc(OC(=O)c3ccccc3)ccc2c1
+P09871	C1S	MQQNFDZXWVTQEH-UHFFFAOYSA-N	N=C(N)Nc1ccc(C(=O)Oc2ccc3cc(C(=N)N)ccc3c2)cc1
+P09871	C1S	DUOUNUFJLXSZFE-UHFFFAOYSA-N	CSc1sc(C(=N)N)cc1-c1nc(-c2cccc(NS(=O)(=O)c3ccc(F)cc3F)c2)cs1

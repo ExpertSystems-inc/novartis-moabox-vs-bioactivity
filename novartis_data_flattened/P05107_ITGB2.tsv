@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+P05107	ITGB2	WPVRNXUYVXQXPY-YFAYRSKXSA-N	CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@H]3C[C@@H](O)CC(=O)N3Cc3ccc4c(CO)c(OC)ccc4c3)[C@H]21
+P05107	ITGB2	RKQJIPUZTXRRRD-HHHXNRCGSA-N	C[C@@]1(Cc2ccc(-c3cncnc3)cc2)C(=O)N(c2cc(Cl)cc(Cl)c2)c2ncc(S(=O)(=O)N3CCNCC3)n21

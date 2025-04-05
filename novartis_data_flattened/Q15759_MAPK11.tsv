@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+Q15759	MAPK11	MVCOAUNKQVWQHZ-UHFFFAOYSA-N	Cc1ccc(-n2nc(C(C)(C)C)cc2NC(=O)Nc2ccc(OCCN3CCOCC3)c3ccccc23)cc1
+Q15759	MAPK11	QHKYPYXTTXKZST-UHFFFAOYSA-N	Oc1ccc(-c2nc(-c3ccncc3)c(-c3ccc(F)cc3)[nH]2)cc1
+Q15759	MAPK11	CDMGBJANTYXAIV-UHFFFAOYSA-N	C[S+]([O-])c1ccc(-c2nc(-c3ccc(F)cc3)c(-c3ccncc3)[nH]2)cc1

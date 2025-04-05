@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+P41231	P2RY2	FPNPSEMJLALQSA-MIYUEGBISA-N	Nc1ccn([C@H]2C[C@H](O)[C@@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4ccc(=O)[nH]c4=O)[C@H](O)[C@@H]3O)O2)c(=O)n1
+P41231	P2RY2	PVKNPGQAFNALOI-UHFFFAOYSA-N	Cc1ccc2c(c1)C=Cc1cc(C)ccc1C2c1cn(Cc2ccc(C(=O)Nc3nn[nH]n3)o2)c(=O)[nH]c1=S
+P41231	P2RY2	IYZXGLGVLYBKAI-UHFFFAOYSA-N	Nc1c(S(=O)(=O)O)cc(Nc2ccc(Nc3nc(Cl)nc(Nc4ccc(S(=O)(=O)O)cc4)n3)c(S(=O)(=O)O)c2)c2c1C(=O)c1ccccc1C2=O

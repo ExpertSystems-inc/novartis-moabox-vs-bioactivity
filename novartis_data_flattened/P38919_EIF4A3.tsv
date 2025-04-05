@@ -1,0 +1,6 @@
+uniprot	gene	inchikey	smiles
+P38919	EIF4A3	WKKAVTNXNVPCCN-HSZRJFAPSA-N	O=C(c1cnn2cc(Br)ccc12)N1CCN(C(=O)c2ccc(Br)cc2)[C@@H](c2ccc(Cl)cc2)C1
+P38919	EIF4A3	BDGKKHWJYBQRIE-HHHXNRCGSA-N	Cc1c(C(=O)N2CCN(C(=O)c3ccc(Br)cc3)[C@@H](c3ccc(Cl)cc3)C2)cnn1-c1cccc(C#N)c1
+P38919	EIF4A3	GODSKPATKZSZMU-RUZDIDTESA-N	O=C(c1cc(C(F)(F)F)c(=O)n(-c2ccccc2)c1)N1CCN(C(=O)c2ccc(Br)cn2)[C@@H](c2ccc(Cl)cc2)C1
+P38919	EIF4A3	GVKXFVCXBFGBCD-JRPGFILLSA-N	COC(=O)[C@@H]1[C@@H](c2ccccc2)[C@]2(c3ccc(OC)cc3)Oc3cc(O[C@@H]4O[C@@H]([C@@H](O)CO)CO[C@H]4OC)cc(OC)c3[C@]2(O)[C@@H]1O
+P38919	EIF4A3	GVKXFVCXBFGBCD-BDHYPIEDSA-N	COC(=O)[C@@H]1[C@@H](c2ccccc2)[C@]2(c3ccc(OC)cc3)Oc3cc(O[C@H]4O[C@@H]([C@@H](O)CO)CO[C@H]4OC)cc(OC)c3[C@]2(O)[C@@H]1O

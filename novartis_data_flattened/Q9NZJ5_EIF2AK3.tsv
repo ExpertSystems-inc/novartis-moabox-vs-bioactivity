@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+Q9NZJ5	EIF2AK3	SIXVRXARNAVBTC-UHFFFAOYSA-N	Cn1cc(-c2ccc3c(c2)CCN3C(=O)Cc2cccc(C(F)(F)F)c2)c2c(N)ncnc21
+Q9NZJ5	EIF2AK3	YPPSMYLMSKHYAY-UHFFFAOYSA-N	Cc1ccc2cc(-c3c(C)ccc(C(=O)c4c(-c5ccccc5)n(C)n(-c5ccccc5)c4=O)c3N)ccc2n1
+Q9NZJ5	EIF2AK3	NWAOQEFDCMNPGW-WYMLVPIESA-N	O/N=C1\c2ccccc2-c2ncccc21

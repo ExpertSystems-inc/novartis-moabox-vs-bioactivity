@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+P10415	BCL2	SBVMSMUUVDMKQT-UHFFFAOYSA-N	O=[N+]([O-])c1cc(S(=O)(=O)n2cc(CO)c3ccccc32)ccc1Cl
+P10415	BCL2	TXCIYDFKXAEUNM-UUWRZZSWSA-N	CN(C)CC[C@H](CSc1cccc(Cl)c1)Nc1ccc(S(=O)(=O)Nc2ncnc3c2CCN(C2CCN(Cc4ccccc4-c4ccc(Cl)cc4)CC2)C3)cc1S(=O)(=O)C(F)(F)F
+P10415	BCL2	KGSREKFQOUTIEA-JGCGQSQUSA-N	CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(S(=O)(=O)Nc2ncnc3c2CCN(C2CCN(Cc4c(F)cccc4-c4ccc(Cl)cc4)CC2)C3)cc1S(=O)(=O)C(F)(F)F

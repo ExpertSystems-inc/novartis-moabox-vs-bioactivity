@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+O14965	AURKA	BLQYVHBZHAISJM-CMDGGOBGSA-N	Cc1cc(Nc2cc(N3CCN(C)CC3)nc(/C=C/c3ccccc3)n2)[nH]n1
+O14965	AURKA	RLAJOHAIIACFAM-ZZXKWVIFSA-N	CN(C)CCOc1ccc(/C=C/c2cc(-c3cc4c(=O)[nH]cnc4[nH]3)ccn2)cc1
+O14965	AURKA	QPKKAIMODKGHRH-UHFFFAOYSA-N	CCN(Cc1cccc(-c2ccnc(Nc3cccc([N+](=O)[O-])c3)n2)c1)C(C)C

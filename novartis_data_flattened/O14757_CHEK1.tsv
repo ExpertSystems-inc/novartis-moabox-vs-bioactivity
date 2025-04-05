@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+O14757	CHEK1	FASLEVZZILWGJD-UHFFFAOYSA-N	COc1cc(-c2ccc3c(c2)Nc2ccc(C(C)(C)C(=O)Nc4ccc(N5CCOCC5)cc4)cc2NC3=O)ccc1[N+](=O)[O-]
+O14757	CHEK1	IAYGCINLNONXHY-LBPRGKRZSA-N	NC(=O)Nc1cc(-c2cccc(F)c2)sc1C(=O)N[C@H]1CCCNC1

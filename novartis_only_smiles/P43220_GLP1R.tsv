@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+P43220	GLP1R	PDGUQPADGLCLCV-UHFFFAOYSA-N	Cc1nnc(Sc2nc3cc(Cl)c(Cl)cc3nc2C(F)(F)F)s1
+P43220	GLP1R	NTDFYGSSDDMNHI-UHFFFAOYSA-N	CC[S+]([O-])c1nc(-c2cccc(OCc3ccccc3)c2)cc(C(F)(F)F)n1

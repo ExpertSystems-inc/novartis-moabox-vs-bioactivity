@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+O15229	KMO	YKYCELLZOAVFCT-UHFFFAOYSA-N	Cc1ccc(S(=O)(=O)Nc2nnc(-c3ccccc3)s2)cc1
+O15229	KMO	NDPBMCKQJOZAQX-UHFFFAOYSA-N	COc1ccc(S(=O)(=O)Nc2nc(-c3cccc([N+](=O)[O-])c3)cs2)cc1OC
+O15229	KMO	GUIGBRQFIGTKEP-UHFFFAOYSA-N	O=C(O)c1cc(-c2ccc(Cl)c(Cl)c2)ccn1

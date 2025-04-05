@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+P53609	PGGT1B	XVWPFYDMUFBHBF-CLOONOSVSA-N	COC(=O)[C@H](CC(C)C)NC(=O)c1ccc(NC[C@@H](N)CS)cc1-c1cccc2ccccc12
+P53609	PGGT1B	GKGFCNRTUWRREZ-SANMLTNESA-N	CSCCc1c(-c2cccnc2)nn(-c2ccc(Cl)c(Cl)c2)c1OCCCC(=O)N[C@@H](Cc1ccc(F)cc1)C(N)=O

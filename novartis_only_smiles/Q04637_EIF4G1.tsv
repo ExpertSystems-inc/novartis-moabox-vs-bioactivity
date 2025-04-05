@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+Q04637	EIF4G1	VVWGPQZBDQVQRC-RMKNXTFCSA-N	O=C(/C=C/c1cncc(F)c1)c1c(-c2ccccc2)c2cc(Cl)ccc2[nH]c1=O
+Q04637	EIF4G1	KFRKRECSIYXARE-HYARGMPZSA-N	O=C(O)/C(Cc1ccccc1[N+](=O)[O-])=N/Nc1nc(-c2ccc(Cl)c(Cl)c2)cs1

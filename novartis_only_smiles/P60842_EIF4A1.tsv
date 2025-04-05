@@ -1,0 +1,5 @@
+uniprot	gene	inchikey	smiles
+P60842	EIF4A1	RRVZOJQBRVGMMK-JWWGNVLFSA-N	COc1ccc([C@@]23Oc4cc(OC)cc(OC)c4[C@]2(O)[C@@H](O)C[C@H]3c2ccccc2)cc1
+P60842	EIF4A1	ALUTUZZBMARJAC-GWNOIRNCSA-N	COc1cc(OC)c2c(c1)O[C@@]1(c3ccc(Br)cc3)[C@H](c3ccccc3)[C@@H](C(=O)N(C)OC)[C@@H](O)[C@@]21O
+P60842	EIF4A1	GVKXFVCXBFGBCD-JRPGFILLSA-N	COC(=O)[C@@H]1[C@@H](c2ccccc2)[C@]2(c3ccc(OC)cc3)Oc3cc(O[C@@H]4O[C@@H]([C@@H](O)CO)CO[C@H]4OC)cc(OC)c3[C@]2(O)[C@@H]1O
+P60842	EIF4A1	GVKXFVCXBFGBCD-BDHYPIEDSA-N	COC(=O)[C@@H]1[C@@H](c2ccccc2)[C@]2(c3ccc(OC)cc3)Oc3cc(O[C@H]4O[C@@H]([C@@H](O)CO)CO[C@H]4OC)cc(OC)c3[C@]2(O)[C@@H]1O

@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+P50613	CDK7	OBJNFLYHUXWUPF-IZZDOVSWSA-N	CN(C)C/C=C/C(=O)Nc1ccc(C(=O)Nc2cccc(Nc3ncc(Cl)c(-c4c[nH]c5ccccc45)n3)c2)cc1
+P50613	CDK7	VPEOEBSAJZUAHP-UHFFFAOYSA-N	Cc1cnc(Nc2cccc(S(C)(=O)=O)c2)nc1-c1cccc2[nH]ccc12
+P50613	CDK7	RBCOCGJUDYLCLU-UHFFFAOYSA-N	CS(=O)(=O)c1cccc(Nc2nccc(-c3cccc4[nH]ccc34)n2)c1

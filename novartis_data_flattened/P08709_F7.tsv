@@ -1,0 +1,5 @@
+uniprot	gene	inchikey	smiles
+P08709	F7	VHYTVSSUVKUYOG-UHFFFAOYSA-N	COc1ccc(Br)c(-c2nc3ccccc3c(=O)o2)c1
+P08709	F7	KAQSSNYVMPKBOO-UHFFFAOYSA-N	CCOc1cc(OC(C)C)c(F)c(C(Nc2ccc(C(=N)N)cc2)c2nc(-c3ccccc3C(N)=O)c[nH]2)c1
+P08709	F7	HLENBKTVSREWEE-AREMUKBSSA-N	CCS(=O)(=O)c1ccc2cc1CNC(=O)[C@H](Nc1ccc(C(=N)N)cc1)c1ccc(cc1)CCCC(=O)N2
+P08709	F7	UWAQLEGUXYPPDC-ZUQCGGBESA-N	C[C@@H]1CC(=O)Nc2ccc(S(=O)(=O)C3CC3)c(c2)CN(C)C(=O)[C@H](Nc2ccc3c(N)ncc(F)c3c2)c2ccc(OCC(F)F)c1c2

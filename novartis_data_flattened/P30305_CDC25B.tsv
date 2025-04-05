@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+P30305	CDC25B	WWEKHDAAECLWTK-RUZDIDTESA-N	O=C(O)[C@@H](Cc1ccccc1)Oc1c(Br)cc(-c2c3ccccc3c(Br)c3oc4ccccc4c23)cc1Br
+P30305	CDC25B	OURCBWJERHUWHH-UHFFFAOYSA-N	Nc1cccc(-c2ccc3c(=O)[nH]c(Nc4ccccc4)cc3c2)c1

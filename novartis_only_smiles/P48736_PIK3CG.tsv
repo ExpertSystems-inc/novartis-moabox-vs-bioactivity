@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+P48736	PIK3CG	SQWAXHGWLCYBIN-UHFFFAOYSA-N	CC(=O)Nc1nc(C)c(-c2ccc(S(C)(=O)=O)c(-n3ccnc3)c2)s1
+P48736	PIK3CG	DKZGKUZHMHEHBU-UHFFFAOYSA-N	Cc1nc(NC(=O)NCC(=O)N(C)C)sc1-c1ccc(S(C)(=O)=O)c(F)c1
+P48736	PIK3CG	JKMWINSPNJPJSO-UHFFFAOYSA-N	Cc1nn(C)cc1-n1c(=O)n(C)c2cnc3ccc(-c4cncc(OC(C)C)c4)cc3c21

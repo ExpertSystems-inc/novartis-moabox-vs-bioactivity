@@ -1,0 +1,5 @@
+uniprot	gene	inchikey	smiles
+O75469	NR1I2	IJHOSUDWVQNGLK-UHFFFAOYSA-N	Fc1ccc(C(c2ccc(F)cc2)(c2ccc(F)cc2)n2ccnc2)cc1
+O75469	NR1I2	JQXXHWHPUNPDRT-WLSIYKJHSA-N	CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c(/C=N/N5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C
+O75469	NR1I2	NZCRJKRKKOLAOJ-XRCRFVBUSA-N	CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C
+O75469	NR1I2	RAVIZVQZGXBOQO-UHFFFAOYSA-N	CCC(C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1

@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+P01116	KRAS	FNGXWOIGFSRSSD-ZROIWOOFSA-N	O=C(O)CCN1C(=O)/C(=C/c2ccc(-c3ccc([N+](=O)[O-])cc3)o2)SC1=S
+P01116	KRAS	ZRPZPNYZFSJUPA-UHFFFAOYSA-N	C=CC(=O)N1CCN(c2ncnc3c(F)c(-c4c(O)cccc4F)c(Cl)cc23)CC1

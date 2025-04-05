@@ -1,0 +1,3 @@
+uniprot	gene	inchikey	smiles
+Q02763	TEK	LCMWDFXRHRLQPG-MXVIHJGJSA-N	CN1CCN([C@H]2CC[C@H](n3cc(-c4ccc(NS(=O)(=O)c5cccc(Cl)c5Cl)c(F)c4)c4c(N)ncnc43)CC2)CC1
+Q02763	TEK	LNMRSSIMGCDUTP-UHFFFAOYSA-N	Cc1ccc(-n2nc(C(C)(C)C)cc2NC(=O)NCc2cc(F)ccc2Oc2ccc3c(cnn3CCO)c2)cc1

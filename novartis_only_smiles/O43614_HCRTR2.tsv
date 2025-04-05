@@ -1,0 +1,4 @@
+uniprot	gene	inchikey	smiles
+O43614	HCRTR2	XCHAQSBFCMITMW-OAQYLSRUSA-N	CN(C(=O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1)[C@H](CCNC(=O)c1ccccn1)Cc1ccccc1
+O43614	HCRTR2	ZNRAIJHKWVDFLC-UHFFFAOYSA-N	COc1ccc(CNC(=O)c2cc(-c3cncc(C)c3)cnc2-c2cccc(F)c2)nc1OC
+O43614	HCRTR2	AZLAMPLFUDZOPO-HSZRJFAPSA-N	CN(C(=O)c1cccc2ccccc12)[C@H](CCNC(=O)c1ccccn1)Cc1ccc(F)cc1
